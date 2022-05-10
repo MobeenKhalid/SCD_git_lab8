@@ -1,0 +1,16 @@
+Z:\LAB_8\LAB_8\bin\Debug\netcoreapp3.1\LAB_8.exe
+Z:\LAB_8\LAB_8\bin\Debug\netcoreapp3.1\LAB_8.deps.json
+Z:\LAB_8\LAB_8\bin\Debug\netcoreapp3.1\LAB_8.runtimeconfig.json
+Z:\LAB_8\LAB_8\bin\Debug\netcoreapp3.1\LAB_8.runtimeconfig.dev.json
+Z:\LAB_8\LAB_8\bin\Debug\netcoreapp3.1\LAB_8.dll
+Z:\LAB_8\LAB_8\bin\Debug\netcoreapp3.1\LAB_8.pdb
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.csproj.AssemblyReference.cache
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.playarea.resources
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.Properties.Resources.resources
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.csproj.GenerateResource.cache
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.AssemblyInfoInputs.cache
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.AssemblyInfo.cs
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.csproj.CoreCompileInputs.cache
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.dll
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.pdb
+Z:\LAB_8\LAB_8\obj\Debug\netcoreapp3.1\LAB_8.genruntimeconfig.cache
